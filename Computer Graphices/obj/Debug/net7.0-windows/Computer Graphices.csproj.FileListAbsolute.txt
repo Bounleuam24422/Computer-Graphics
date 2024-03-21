@@ -1,0 +1,17 @@
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\bin\Debug\net7.0-windows\Computer Graphices.exe
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\bin\Debug\net7.0-windows\Computer Graphices.deps.json
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\bin\Debug\net7.0-windows\Computer Graphices.runtimeconfig.json
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\bin\Debug\net7.0-windows\Computer Graphices.dll
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\bin\Debug\net7.0-windows\Computer Graphices.pdb
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer_Graphices.Exersice1.resources
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.AssemblyInfo.cs
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.dll
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\refint\Computer Graphices.dll
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.pdb
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\Computer Graphices.genruntimeconfig.cache
+C:\Users\GIGABYTE\source\repos\CMGPh3CS2\Computer Graphices\obj\Debug\net7.0-windows\ref\Computer Graphices.dll
