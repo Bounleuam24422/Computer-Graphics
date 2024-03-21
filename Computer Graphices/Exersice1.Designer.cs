@@ -38,21 +38,21 @@
 			// 
 			// button1
 			// 
-			button1.Location = new Point(628, 38);
+			button1.Location = new Point(628, 96);
 			button1.Name = "button1";
 			button1.Size = new Size(121, 42);
 			button1.TabIndex = 0;
-			button1.Text = "Draw";
+			button1.Text = "Delete";
 			button1.UseVisualStyleBackColor = true;
 			button1.Click += button1_Click;
 			// 
 			// btnDraw
 			// 
-			btnDraw.Location = new Point(628, 95);
+			btnDraw.Location = new Point(628, 38);
 			btnDraw.Name = "btnDraw";
 			btnDraw.Size = new Size(121, 42);
 			btnDraw.TabIndex = 0;
-			btnDraw.Text = "Delete";
+			btnDraw.Text = "Draw";
 			btnDraw.UseVisualStyleBackColor = true;
 			btnDraw.Click += btnDraw_Click;
 			// 
@@ -62,7 +62,6 @@
 			btnColor.Name = "btnColor";
 			btnColor.Size = new Size(121, 42);
 			btnColor.TabIndex = 0;
-			btnColor.Text = "button1";
 			btnColor.UseVisualStyleBackColor = true;
 			btnColor.Click += btnColor_Click;
 			// 
