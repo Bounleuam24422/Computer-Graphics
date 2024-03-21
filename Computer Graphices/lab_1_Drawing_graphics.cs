@@ -27,7 +27,7 @@ namespace Computer_Graphices
 			g.DrawEllipse(p, 50, 250, 100, 200);
 			g.FillEllipse(b, 51, 251, 98, 198);
 			Font t = new Font("Saysettha OT", 16);
-			g.DrawString("ວິ ຊາຄອມພິ ວເຕີ ກຣາຟຟິ ກ", t, Brushes.Black, 200, 300);
+			g.DrawString("ວິຊາ ຄອມພິວເຕີກຣາຟຟິກ", t, Brushes.Black, 200, 300);
 			g.Dispose();
 		}
 
