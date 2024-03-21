@@ -1,6 +1,6 @@
 ﻿namespace Computer_Graphices
 {
-	partial class Exersice1
+	partial class lab_1_Drawing_graphics
 	{
 		/// <summary>
 		///  Required designer variable.

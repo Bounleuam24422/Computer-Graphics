@@ -11,7 +11,8 @@ namespace Computer_Graphices
 			// To customize application configuration such as set high DPI settings or default font,
 			// see https://aka.ms/applicationconfiguration.
 			ApplicationConfiguration.Initialize();
-			Application.Run(new Exersice1());
+			/*Application.Run(new lab_1_Drawing_graphics());*/
+			Application.Run(new Main());
 		}
 	}
 }

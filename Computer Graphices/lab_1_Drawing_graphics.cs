@@ -2,14 +2,14 @@
 using System.Drawing;
 namespace Computer_Graphices
 {
-	public partial class Exersice1 : Form
+	public partial class lab_1_Drawing_graphics : Form
 	{
 		Graphics g;
 		Pen p;
 		float ps;
 		Brush b;
 
-		public Exersice1()
+		public lab_1_Drawing_graphics()
 		{
 			InitializeComponent();
 			ps = 1.0f;
